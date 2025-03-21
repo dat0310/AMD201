@@ -67,3 +67,4 @@ C:\Users\entid\source\repos\UrlShortener\UrlShortener\obj\Debug\net6.0\UrlShorte
 C:\Users\entid\source\repos\UrlShortener\UrlShortener\obj\Debug\net6.0\UrlShortener.genruntimeconfig.cache
 C:\Users\entid\source\repos\UrlShortener\UrlShortener\obj\Debug\net6.0\ref\UrlShortener.dll
 C:\Users\entid\source\repos\UrlShortener\UrlShortener\bin\Debug\net6.0\UrlShortener.staticwebassets.runtime.json
+C:\Users\entid\source\repos\UrlShortener\UrlShortener\obj\Debug\net6.0\UrlShortener.sourcelink.json
