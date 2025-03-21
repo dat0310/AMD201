@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Kucos4LJQ7/ShvIN+5pHv1LiYGI0iuapkHuY7xSW8FU=",
+  "Source": "UrlShortener",
+  "BasePath": "_content/UrlShortener",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UrlShortener\\wwwroot",
+      "Source": "UrlShortener",
+      "ContentRoot": "C:\\Users\\entid\\source\\repos\\UrlShortener\\UrlShortener\\wwwroot\\",
+      "BasePath": "_content/UrlShortener",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\entid\\source\\repos\\UrlShortener\\UrlShortener\\wwwroot\\index.html",
+      "SourceId": "UrlShortener",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\entid\\source\\repos\\UrlShortener\\UrlShortener\\wwwroot\\",
+      "BasePath": "_content/UrlShortener",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\entid\\source\\repos\\UrlShortener\\UrlShortener\\wwwroot\\script.js",
+      "SourceId": "UrlShortener",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\entid\\source\\repos\\UrlShortener\\UrlShortener\\wwwroot\\",
+      "BasePath": "_content/UrlShortener",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\entid\\source\\repos\\UrlShortener\\UrlShortener\\wwwroot\\styles.css",
+      "SourceId": "UrlShortener",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\entid\\source\\repos\\UrlShortener\\UrlShortener\\wwwroot\\",
+      "BasePath": "_content/UrlShortener",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
